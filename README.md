@@ -1,1 +1,1 @@
-# Language-Detectior-and-Translator-using-Flask
+# Language-Detector-and-Translator-using-Flask
